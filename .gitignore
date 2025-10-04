@@ -1,0 +1,41 @@
+build/
+bin/
+_deps/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+_CPack_Packages/
+DartConfiguration.tcl
+Testing/
+
+# IDE specific files (e.g., CLion)
+.idea/
+cmake-build-*/
+
+# Other common build artifacts
+*.o
+*.obj
+*.lo
+*.la
+*.so
+*.a
+*.lib
+*.dll
+*.exe
+*.out
+*.bin
+
+# Log files
+*.log
+
+# CPack generated files
+*.tar.gz
+*.zip
+*.deb
+*.rpm
+*.ttf
+*.png
+*.pdf
