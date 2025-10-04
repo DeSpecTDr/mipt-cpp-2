@@ -1,0 +1,3 @@
+[submodule "hm1/task2/ASCII-Tetris"]
+	path = hm1/task2/ASCII-Tetris
+	url = https://github.com/Gregwar/ASCII-Tetris
